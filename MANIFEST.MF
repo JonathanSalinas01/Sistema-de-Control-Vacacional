@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: Salinas Jonathan Marcelo
+Main-Class: Bienvenida
+X-COMMENT: Este fue mi primer curso terminado
